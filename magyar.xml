@@ -1,0 +1,698 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="m1 HU">
+    <display-name lang="hu">m1 HU</display-name>
+    <icon src="https://media.port.hu/images/001/591/100x100/522.jpg" />
+    <url>http://www.port.hu</url>
+  </channel>
+  <channel id="m2 Petofi HU">
+    <display-name lang="hu">m2 Petofi HU</display-name>
+    <url>http://www.awilime.com</url>
+  </channel>
+  <programme start="20250109000200 +0100" stop="20250109001000 +0100" channel="m1 HU">
+    <title lang="hu">ZÁRÓHÍRADÓ</title>
+    <desc lang="hu">A nap legfontosabb híreinek összefoglalója. Teljes leírás.(n)</desc>
+    <category lang="hu">Hírműsor</category>
+    <star-rating system="IMDb">
+      <value>4.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109001000 +0100" stop="20250109002000 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">Részletes jelentés a következő napok várható időjárásáról. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <rating system="IMDb">
+      <value>12</value>
+      <icon src="https://port.hu/img/agelimit/vector/12_age_icon_black.svg" />
+    </rating>
+    <star-rating system="IMDb">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109002000 +0100" stop="20250109010500 +0100" channel="m1 HU">
+    <title lang="hu">Ma éjszaka</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <star-rating system="IMDb">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109010500 +0100" stop="20250109020000 +0100" channel="m1 HU">
+    <title lang="hu">Ma éjszaka</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <star-rating system="IMDb">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109020000 +0100" stop="20250109030000 +0100" channel="m1 HU">
+    <title lang="hu">Ma éjszaka</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <star-rating system="IMDb">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109030000 +0100" stop="20250109040000 +0100" channel="m1 HU">
+    <title lang="hu">Ma éjszaka</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <star-rating system="IMDb">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109040000 +0100" stop="20250109050000 +0100" channel="m1 HU">
+    <title lang="hu">Ma éjszaka</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <star-rating system="IMDb">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109050000 +0100" stop="20250109060000 +0100" channel="m1 HU">
+    <title lang="hu">Ma éjszaka</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <star-rating system="IMDb">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109060000 +0100" stop="20250109063000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Hírműsor</category>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109063000 +0100" stop="20250109063500 +0100" channel="m1 HU">
+    <title lang="hu">Nemzeti Sporthíradó</title>
+    <desc lang="hu">A Nemzeti Sporthíradó minden nap háromszor jelentkezik a magyarországi és a határon túli magyar sporthírekkel. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Sportműsor</category>
+    <star-rating system="IMDb">
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109063500 +0100" stop="20250109064500 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">Részletes jelentés a következő napok várható időjárásáról. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <rating system="IMDb">
+      <value>12</value>
+      <icon src="https://port.hu/img/agelimit/vector/12_age_icon_black.svg" />
+    </rating>
+    <star-rating system="IMDb">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109064500 +0100" stop="20250109070000 +0100" channel="m1 HU">
+    <title lang="hu">VILÁGHÍRADÓ</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <icon src="https://media.port.hu/images/001/331/496.jpg" />
+    <star-rating system="IMDb">
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109070000 +0100" stop="20250109071500 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Hírműsor</category>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109071500 +0100" stop="20250109072000 +0100" channel="m1 HU">
+    <title lang="hu">Nemzeti Sporthíradó</title>
+    <desc lang="hu">A Nemzeti Sporthíradó minden nap háromszor jelentkezik a magyarországi és a határon túli magyar sporthírekkel. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Sportműsor</category>
+    <star-rating system="IMDb">
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109072000 +0100" stop="20250109073000 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">Részletes jelentés a következő napok várható időjárásáról. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <rating system="IMDb">
+      <value>12</value>
+      <icon src="https://port.hu/img/agelimit/vector/12_age_icon_black.svg" />
+    </rating>
+    <star-rating system="IMDb">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109073000 +0100" stop="20250109073300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+    <desc lang="hu">A Híradó első kézből tájékoztatja a nézőket a fontos hírekről. Objektív, hiteles, szakszerű. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Hírműsor</category>
+    <icon src="https://media.port.hu/images/000/676/962.jpg" />
+    <star-rating system="IMDb">
+      <value>4.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109073300 +0100" stop="20250109080000 +0100" channel="m1 HU">
+    <title lang="hu">Ma reggel</title>
+    <desc lang="hu">A Ma reggel az MTVA saját gyártású, minden hétköznap jelentkező reggeli politikai és közéleti témákkal foglalkozó műsora. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109080000 +0100" stop="20250109081000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Hírműsor</category>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109081000 +0100" stop="20250109081500 +0100" channel="m1 HU">
+    <title lang="hu">Nemzeti Sporthíradó</title>
+    <desc lang="hu">A Nemzeti Sporthíradó minden nap háromszor jelentkezik a magyarországi és a határon túli magyar sporthírekkel. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Sportműsor</category>
+    <star-rating system="IMDb">
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109081500 +0100" stop="20250109082000 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">Részletes jelentés a következő napok várható időjárásáról. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <rating system="IMDb">
+      <value>12</value>
+      <icon src="https://port.hu/img/agelimit/vector/12_age_icon_black.svg" />
+    </rating>
+    <star-rating system="IMDb">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109082000 +0100" stop="20250109083000 +0100" channel="m1 HU">
+    <title lang="hu">Ma reggel</title>
+    <desc lang="hu">A Ma reggel az MTVA saját gyártású, minden hétköznap jelentkező reggeli politikai és közéleti témákkal foglalkozó műsora. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109083000 +0100" stop="20250109083300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+    <desc lang="hu">A Híradó első kézből tájékoztatja a nézőket a fontos hírekről. Objektív, hiteles, szakszerű. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Hírműsor</category>
+    <icon src="https://media.port.hu/images/000/676/962.jpg" />
+    <star-rating system="IMDb">
+      <value>4.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109083300 +0100" stop="20250109090000 +0100" channel="m1 HU">
+    <title lang="hu">Ma reggel</title>
+    <desc lang="hu">A Ma reggel az MTVA saját gyártású, minden hétköznap jelentkező reggeli politikai és közéleti témákkal foglalkozó műsora. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109090000 +0100" stop="20250109092000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Hírműsor</category>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109092000 +0100" stop="20250109092200 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">Részletes jelentés a következő napok várható időjárásáról. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <rating system="IMDb">
+      <value>12</value>
+      <icon src="https://port.hu/img/agelimit/vector/12_age_icon_black.svg" />
+    </rating>
+    <star-rating system="IMDb">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109092200 +0100" stop="20250109093000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délelőtt</title>
+    <desc lang="hu">Élő műsorblokk, amelyet a stúdióból vagy más helyszínről politikai, gazdasági, kulturális szakmai beszélgetések mellett híradók, magazinok és egyéb élő kapcsolások egészítenek ki. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109093000 +0100" stop="20250109093300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+    <desc lang="hu">A Híradó első kézből tájékoztatja a nézőket a fontos hírekről. Objektív, hiteles, szakszerű. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Hírműsor</category>
+    <icon src="https://media.port.hu/images/000/676/962.jpg" />
+    <star-rating system="IMDb">
+      <value>4.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109093300 +0100" stop="20250109100000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délelőtt</title>
+    <desc lang="hu">Élő műsorblokk, amelyet a stúdióból vagy más helyszínről politikai, gazdasági, kulturális szakmai beszélgetések mellett híradók, magazinok és egyéb élő kapcsolások egészítenek ki. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109100000 +0100" stop="20250109101000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Hírműsor</category>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109101000 +0100" stop="20250109102000 +0100" channel="m1 HU">
+    <title lang="hu">Nemzeti Sporthíradó</title>
+    <desc lang="hu">A Nemzeti Sporthíradó minden nap háromszor jelentkezik a magyarországi és a határon túli magyar sporthírekkel. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Sportműsor</category>
+    <star-rating system="IMDb">
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109102000 +0100" stop="20250109102200 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">Részletes jelentés a következő napok várható időjárásáról. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <rating system="IMDb">
+      <value>12</value>
+      <icon src="https://port.hu/img/agelimit/vector/12_age_icon_black.svg" />
+    </rating>
+    <star-rating system="IMDb">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109102200 +0100" stop="20250109103000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délelőtt</title>
+    <desc lang="hu">Élő műsorblokk, amelyet a stúdióból vagy más helyszínről politikai, gazdasági, kulturális szakmai beszélgetések mellett híradók, magazinok és egyéb élő kapcsolások egészítenek ki. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109103000 +0100" stop="20250109103300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+    <desc lang="hu">A Híradó első kézből tájékoztatja a nézőket a fontos hírekről. Objektív, hiteles, szakszerű. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Hírműsor</category>
+    <icon src="https://media.port.hu/images/000/676/962.jpg" />
+    <star-rating system="IMDb">
+      <value>4.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109103300 +0100" stop="20250109105000 +0100" channel="m1 HU">
+    <title lang="hu">Unió27</title>
+    <desc lang="hu">Különféle problémák, közös megoldások. A műsorban bemutatjuk az összefüggéseket, hogy mi állhat az EU-s döntéshozatal hátterében és azt is megtudhatják, hogy hogyan érinti mindez Magyarországot. Legyen szó a szomszédos országokról, Lengyelországról, a migrációról vagy éppen gazdaságról. Ha érdekli, hogy mi miért történik és megtudná, hogy mi lesz a következő lépés, csatlakozzon hozzánk. Teljes leírás.(n)</desc>
+    <category lang="hu">Hírműsor</category>
+    <country lang="hu">Magyar</country>
+    <star-rating system="IMDb">
+      <value>1</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109105000 +0100" stop="20250109110000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délelőtt</title>
+    <desc lang="hu">Élő műsorblokk, amelyet a stúdióból vagy más helyszínről politikai, gazdasági, kulturális szakmai beszélgetések mellett híradók, magazinok és egyéb élő kapcsolások egészítenek ki. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109110000 +0100" stop="20250109112000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Hírműsor</category>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109112000 +0100" stop="20250109112200 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">Részletes jelentés a következő napok várható időjárásáról. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <rating system="IMDb">
+      <value>12</value>
+      <icon src="https://port.hu/img/agelimit/vector/12_age_icon_black.svg" />
+    </rating>
+    <star-rating system="IMDb">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109112200 +0100" stop="20250109113000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délelőtt</title>
+    <desc lang="hu">Élő műsorblokk, amelyet a stúdióból vagy más helyszínről politikai, gazdasági, kulturális szakmai beszélgetések mellett híradók, magazinok és egyéb élő kapcsolások egészítenek ki. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109113000 +0100" stop="20250109113300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+    <desc lang="hu">A Híradó első kézből tájékoztatja a nézőket a fontos hírekről. Objektív, hiteles, szakszerű. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Hírműsor</category>
+    <icon src="https://media.port.hu/images/000/676/962.jpg" />
+    <star-rating system="IMDb">
+      <value>4.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109113300 +0100" stop="20250109115000 +0100" channel="m1 HU">
+    <title lang="hu">Élő egyház</title>
+    <desc lang="hu">A hétről-hétre jelentkező Kárpát-medencei "hírmondó" a hazai és külhoni magyar egyházak értékteremtő és értékmegőrző munkáját, társadalmi szerepvállalását mutatja be, szem előtt tartva a világegyházi aktualitásokat is. Teljes leírás.(n)</desc>
+    <credits>
+      <director>Horváth Tamás</director>
+      <director>Tóth Béla</director>
+      <presenter>Gáspár Monika</presenter>
+    </credits>
+    <category lang="hu">Vallási Műsor</category>
+    <icon src="https://media.port.hu/images/001/331/490.jpg" />
+    <country lang="hu">Magyar</country>
+    <star-rating system="IMDb">
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109115000 +0100" stop="20250109120000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délelőtt</title>
+    <desc lang="hu">Élő műsorblokk, amelyet a stúdióból vagy más helyszínről politikai, gazdasági, kulturális szakmai beszélgetések mellett híradók, magazinok és egyéb élő kapcsolások egészítenek ki. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109120000 +0100" stop="20250109120100 +0100" channel="m1 HU">
+    <title lang="hu">Déli harangszó</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <star-rating system="IMDb">
+      <value>7.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109120100 +0100" stop="20250109123500 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Hírműsor</category>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109123500 +0100" stop="20250109124500 +0100" channel="m1 HU">
+    <title lang="hu">Nemzeti Sporthíradó</title>
+    <desc lang="hu">A Nemzeti Sporthíradó minden nap háromszor jelentkezik a magyarországi és a határon túli magyar sporthírekkel. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Sportműsor</category>
+    <star-rating system="IMDb">
+      <value>4.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109124500 +0100" stop="20250109125000 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">Részletes jelentés a következő napok várható időjárásáról. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <rating system="IMDb">
+      <value>12</value>
+      <icon src="https://port.hu/img/agelimit/vector/12_age_icon_black.svg" />
+    </rating>
+    <star-rating system="IMDb">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109125000 +0100" stop="20250109130000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+    <desc lang="hu">Élő műsorblokk, amelyet a stúdióból vagy más helyszínről politikai, gazdasági, kulturális szakmai beszélgetések mellett híradók, magazinok és egyéb élő kapcsolások egészítenek ki. Teljes leírás.(n)</desc>
+    <category lang="hu">Hírműsor</category>
+    <star-rating system="IMDb">
+      <value>5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109130000 +0100" stop="20250109132000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Hírműsor</category>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109132000 +0100" stop="20250109132200 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">Részletes jelentés a következő napok várható időjárásáról. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <rating system="IMDb">
+      <value>12</value>
+      <icon src="https://port.hu/img/agelimit/vector/12_age_icon_black.svg" />
+    </rating>
+    <star-rating system="IMDb">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109132200 +0100" stop="20250109133000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+    <desc lang="hu">Élő műsorblokk, amelyet a stúdióból vagy más helyszínről politikai, gazdasági, kulturális szakmai beszélgetések mellett híradók, magazinok és egyéb élő kapcsolások egészítenek ki. Teljes leírás.(n)</desc>
+    <category lang="hu">Hírműsor</category>
+    <star-rating system="IMDb">
+      <value>5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109133000 +0100" stop="20250109133300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+    <desc lang="hu">A Híradó első kézből tájékoztatja a nézőket a fontos hírekről. Objektív, hiteles, szakszerű. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Hírműsor</category>
+    <icon src="https://media.port.hu/images/000/676/962.jpg" />
+    <star-rating system="IMDb">
+      <value>4.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109133300 +0100" stop="20250109140000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+    <desc lang="hu">Élő műsorblokk, amelyet a stúdióból vagy más helyszínről politikai, gazdasági, kulturális szakmai beszélgetések mellett híradók, magazinok és egyéb élő kapcsolások egészítenek ki. Teljes leírás.(n)</desc>
+    <category lang="hu">Hírműsor</category>
+    <star-rating system="IMDb">
+      <value>5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109140000 +0100" stop="20250109142000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Hírműsor</category>
+    <star-rating system="IMDb">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109142000 +0100" stop="20250109142200 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">Részletes jelentés a következő napok várható időjárásáról. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <rating system="IMDb">
+      <value>12</value>
+      <icon src="https://port.hu/img/agelimit/vector/12_age_icon_black.svg" />
+    </rating>
+    <star-rating system="IMDb">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109142200 +0100" stop="20250109143000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+    <desc lang="hu">Élő műsorblokk, amelyet a stúdióból vagy más helyszínről politikai, gazdasági, kulturális szakmai beszélgetések mellett híradók, magazinok és egyéb élő kapcsolások egészítenek ki. Teljes leírás.(n)</desc>
+    <category lang="hu">Hírműsor</category>
+    <star-rating system="IMDb">
+      <value>5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109143000 +0100" stop="20250109143300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+    <desc lang="hu">A Híradó első kézből tájékoztatja a nézőket a fontos hírekről. Objektív, hiteles, szakszerű. Teljes leírás.(n)</desc>
+    <date>2024</date>
+    <category lang="hu">Hírműsor</category>
+    <icon src="https://media.port.hu/images/000/676/962.jpg" />
+    <star-rating system="IMDb">
+      <value>4.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109143300 +0100" stop="20250109145000 +0100" channel="m1 HU">
+    <title lang="hu">Esély</title>
+    <desc lang="hu">Fogyatékkal élőkről szóló magazin. Teljes leírás.(n)</desc>
+    <credits>
+      <director>Hollós János</director>
+    </credits>
+    <category lang="hu">Magazinműsor</category>
+    <star-rating system="IMDb">
+      <value>5.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109145000 +0100" stop="20250109150000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+    <desc lang="hu">Élő műsorblokk, amelyet a stúdióból vagy más helyszínről politikai, gazdasági, kulturális szakmai beszélgetések mellett híradók, magazinok és egyéb élő kapcsolások egészítenek ki. Teljes leírás.(n)</desc>
+    <category lang="hu">Hírműsor</category>
+    <star-rating system="IMDb">
+      <value>5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250109150000 +0100" stop="20250109152000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">hírműsor, 2024.(n)</desc>
+  </programme>
+  <programme start="20250109152000 +0100" stop="20250109152200 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">2024.(n)</desc>
+  </programme>
+  <programme start="20250109152200 +0100" stop="20250109153000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+    <desc lang="hu">hírműsor.(n)</desc>
+  </programme>
+  <programme start="20250109153000 +0100" stop="20250109153300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+    <desc lang="hu">hírműsor, 2024.(n)</desc>
+  </programme>
+  <programme start="20250109153300 +0100" stop="20250109155000 +0100" channel="m1 HU">
+    <title lang="hu">Unió27</title>
+    <desc lang="hu">magyar hírműsor, 0.(n)</desc>
+  </programme>
+  <programme start="20250109155000 +0100" stop="20250109160000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+    <desc lang="hu">hírműsor.(n)</desc>
+  </programme>
+  <programme start="20250109160000 +0100" stop="20250109161500 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">hírműsor, 2024.(n)</desc>
+  </programme>
+  <programme start="20250109161500 +0100" stop="20250109162000 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">2024.(n)</desc>
+  </programme>
+  <programme start="20250109162000 +0100" stop="20250109163000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+    <desc lang="hu">hírműsor.(n)</desc>
+  </programme>
+  <programme start="20250109163000 +0100" stop="20250109163300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+    <desc lang="hu">hírműsor, 2024.(n)</desc>
+  </programme>
+  <programme start="20250109163300 +0100" stop="20250109170000 +0100" channel="m1 HU">
+    <title lang="hu">Kék bolygó</title>
+    <desc lang="hu">magyar magazinműsor.(n)</desc>
+  </programme>
+  <programme start="20250109170000 +0100" stop="20250109171000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">hírműsor, 2024.(n)</desc>
+  </programme>
+  <programme start="20250109171000 +0100" stop="20250109171500 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">2024.(n)</desc>
+  </programme>
+  <programme start="20250109171500 +0100" stop="20250109174500 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+    <desc lang="hu">hírműsor.(n)</desc>
+  </programme>
+  <programme start="20250109174500 +0100" stop="20250109180000 +0100" channel="m1 HU">
+    <title lang="hu">Agenda</title>
+    <desc lang="hu">2024.(n)</desc>
+  </programme>
+  <programme start="20250109180000 +0100" stop="20250109182500 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">hírműsor, 2024.(n)</desc>
+  </programme>
+  <programme start="20250109182500 +0100" stop="20250109183500 +0100" channel="m1 HU">
+    <title lang="hu">Nemzeti Sporthíradó</title>
+    <desc lang="hu">sportműsor, 2024.(n)</desc>
+  </programme>
+  <programme start="20250109183500 +0100" stop="20250109184500 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">2024.(n)</desc>
+  </programme>
+  <programme start="20250109184500 +0100" stop="20250109190000 +0100" channel="m1 HU">
+    <title lang="hu">Ma este</title>
+    <desc lang="hu">hírműsor.(n)</desc>
+  </programme>
+  <programme start="20250109190000 +0100" stop="20250109190400 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">2024.(n)</desc>
+  </programme>
+  <programme start="20250109190400 +0100" stop="20250109192500 +0100" channel="m1 HU">
+    <title lang="hu">VILÁGHÍRADÓ</title>
+    <desc lang="hu">2024.(n)</desc>
+  </programme>
+  <programme start="20250109192500 +0100" stop="20250109193000 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">2024.(n)</desc>
+  </programme>
+  <programme start="20250109193000 +0100" stop="20250109202000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">hírműsor, 2024.(n)</desc>
+  </programme>
+  <programme start="20250109202000 +0100" stop="20250109202500 +0100" channel="m1 HU">
+    <title lang="hu">Nemzeti Sporthíradó</title>
+    <desc lang="hu">sportműsor, 2024.(n)</desc>
+  </programme>
+  <programme start="20250109202500 +0100" stop="20250109203500 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">2024.(n)</desc>
+  </programme>
+  <programme start="20250109203500 +0100" stop="20250109210000 +0100" channel="m1 HU">
+    <title lang="hu">48 perc</title>
+  </programme>
+  <programme start="20250109210000 +0100" stop="20250109213000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">hírműsor, 2024.(n)</desc>
+  </programme>
+  <programme start="20250109213000 +0100" stop="20250109220000 +0100" channel="m1 HU">
+    <title lang="hu">VILÁGHÍRADÓ</title>
+    <desc lang="hu">2024.(n)</desc>
+  </programme>
+  <programme start="20250109220000 +0100" stop="20250109222000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">hírműsor, 2024.(n)</desc>
+  </programme>
+  <programme start="20250109222000 +0100" stop="20250109223000 +0100" channel="m1 HU">
+    <title lang="hu">Nemzeti Sporthíradó</title>
+    <desc lang="hu">sportműsor, 2024.(n)</desc>
+  </programme>
+  <programme start="20250109223000 +0100" stop="20250109224000 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+    <desc lang="hu">2024.(n)</desc>
+  </programme>
+  <programme start="20250109224000 +0100" stop="20250109230000 +0100" channel="m1 HU">
+    <title lang="hu">Ma éjjel</title>
+    <desc lang="hu">hírműsor.(n)</desc>
+  </programme>
+  <programme start="20250109230000 +0100" stop="20250109231500 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <desc lang="hu">hírműsor, 2024.(n)</desc>
+  </programme>
+  <programme start="20250109231500 +0100" stop="20250109231900 +0100" channel="m1 HU">
+    <title lang="hu">ANGOL NYELVŰ HÍREK</title>
+    <desc lang="hu">2024.(n)</desc>
+  </programme>
+  <programme start="20250109231900 +0100" stop="20250109232200 +0100" channel="m1 HU">
+    <title lang="hu">NÉMET NYELVŰ HÍREK</title>
+    <desc lang="hu">2024.(n)</desc>
+  </programme>
+  <programme start="20250109232200 +0100" stop="20250109232600 +0100" channel="m1 HU">
+    <title lang="hu">OROSZ NYELVŰ HÍREK</title>
+    <desc lang="hu">2024.(n)</desc>
+  </programme>
+  <programme start="20250109232600 +0100" stop="20250109233000 +0100" channel="m1 HU">
+    <title lang="hu">KÍNAI NYELVŰ HÍREK</title>
+    <desc lang="hu">2024.(n)</desc>
+  </programme>
+  <programme start="20250109233000 +0100" stop="20250110000000 +0100" channel="m1 HU">
+    <title lang="hu">VILÁGHÍRADÓ</title>
+    <desc lang="hu">2024.(n)</desc>
+  </programme>
+</tv>
